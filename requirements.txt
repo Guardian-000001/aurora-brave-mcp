@@ -1,4 +1,4 @@
-fastmcp
+mcp>=1.28,<2
 httpx
 uvicorn
 starlette
